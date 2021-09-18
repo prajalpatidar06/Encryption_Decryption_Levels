@@ -51,7 +51,6 @@ int main(){
             output = decrypt(text , _key);
             break;
     }
-    cout<<"key = "<<_key<<"\n";
     cout<<output<<"\n";
     return 0;
 }
